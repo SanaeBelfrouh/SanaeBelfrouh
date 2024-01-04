@@ -4,8 +4,7 @@ ___________________________________________________________👋 Hi!_____________
 
 
               🎓 Currently pursuing Masters in Artificial Intelligence and Data Analysis at Moulay Ismail University.
-
-
+          
               ✅ Committed to lifelong learning and staying updated with advancements in the field.
 
               💻 Interested in exploring the applications of AI and data analysis in various fields.
